@@ -8,7 +8,7 @@ Based in Bengaluru, India.
 
 #### What I’m building
 
-🎮 **[fps_sas](https://github.com/gsachs/fps_sas)** — Browser-based 3D shooter: hunt AI bots through a rooms-and-corridors map. Three.js + Rapier physics.
+🎮 **[foothold](https://github.com/gsachs/foothold)** — Browser-based 3D shooter: hunt AI bots through a rooms-and-corridors map. Three.js + Rapier physics.
 
 🔌 **[sn_mcp](https://github.com/gsachs/sn_mcp)** — Local MCP server for authoring ServiceNow catalog items end-to-end on a connected developer instance. Python.
 
